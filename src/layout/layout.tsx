@@ -47,7 +47,7 @@ const App: React.FC = () => {
     <Layout id='layout'>
       <Sider trigger={null} collapsible collapsed={collapsed}>
         <div className="logo">
-            活动管理平台
+            活动管理平台second分支
         </div>
         <Menu
           theme="dark"
