@@ -1,0 +1,35 @@
+#layout{
+    height: 100vh;
+}
+#layout .trigger {
+    padding: 0 24px;
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  #layout .trigger:hover {
+    color: #1890ff;
+  }
+  
+  #layout .logo {
+    height: 32px;
+    margin: 16px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 32px;
+    font-weight: bold;
+    color: #fff;
+    background: rgba(255, 255, 255, 0.3);
+  }
+
+  .header-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .header-btn{
+    margin-right: 20px;
+  }
